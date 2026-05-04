@@ -1,0 +1,10 @@
+def ejecutar():
+    print("\n--- Proyecto: Organizador Profesional de Setup ---")
+    print("Dificultad: Dificil | Duracion: Larga")
+    print("Materiales: Caja de zapatos grande, 10+ rollos de carton, papel decorativo.")
+    print("Instrucciones:")
+    print("1. Mide el interior de la caja para que los rollos queden exactos.")
+    print("2. Forra cada rollo individualmente con papel decorativo.")
+    print("3. Pega los rollos al fondo de la caja en filas perfectas.")
+    print("4. Crea separadores extra con carton para audifonos y controles.")
+    print("5. ¡Disfruta de tu setup optimizado!")
